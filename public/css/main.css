@@ -1,0 +1,47 @@
+/*  Start Main Rules    */
+
+body{
+    background-color: #F4F4F4;
+    font-size: 16px     ;
+}
+
+/*  End Main Rules  */
+
+/*  Start login Form    */
+
+ .card.lg{
+    width: 700px;
+    margin: 100px auto;
+    margin-top: 50px;
+}
+
+.fa-user-circle-o{
+    font-size: 50px;
+}
+
+.login{
+    width: 80%;
+    margin: 100px auto;
+}
+.register{
+    width: 90%;
+    margin: 100px auto;
+}
+
+.login h4{
+    color: #888;
+}
+
+.login input{
+    margin-bottom: 10px;
+}
+
+.login .form-control{
+    background-color: #EAEAEA !important;
+}
+
+.login .btn{
+    background-color: #008dde;
+}
+
+/* End Login Form   */
